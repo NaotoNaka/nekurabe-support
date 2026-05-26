@@ -19,6 +19,12 @@ The Application collects your device's location, which helps the Service Provide
 
 The Application does not use Artificial Intelligence (AI) technologies to process your data or provide features.
 
+## Sharing Features
+
+The Application allows you to share store information, product price records, shopping lists, or exported Application data when you choose to use the sharing feature. Shared data may include information you entered in the Application, such as store names, store locations, product names, prices, quantities, units, notes, and shopping list items.
+
+The Service Provider does not automatically share this user-entered content with other users. Sharing occurs only when you intentionally use the Application's sharing or export features, or when you import shared data into the Application. Once you share data through your device's sharing options, the selected recipient, application, service, or platform may process that data according to its own terms and privacy policy.
+
 The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
 For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
@@ -43,13 +49,13 @@ You can stop all collection of information by the Application easily by uninstal
 
 ## Data Retention Policy
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at project.bandwagon24@gmail.com and they will respond in a reasonable time.
+The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at https://github.com/NaotoNaka/nekurabe-support and they will respond in a reasonable time.
 
 ## Children
 
 The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
 
-The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (project.bandwagon24@gmail.com) so that they will be able to take the necessary actions.
+The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (https://github.com/NaotoNaka/nekurabe-support) so that they will be able to take the necessary actions.
 
 ## Security
 
@@ -67,4 +73,4 @@ By using the Application, you are consenting to the processing of your informati
 
 ## Contact Us
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at project.bandwagon24@gmail.com.
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at https://github.com/NaotoNaka/nekurabe-support.

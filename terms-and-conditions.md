@@ -10,6 +10,14 @@ The Service Provider is dedicated to ensuring that the Application is as benefic
 
 The Application stores and processes personal data that you have provided to the Service Provider in order to provide the Service. It is your responsibility to maintain the security of your phone and access to the Application. The Service Provider strongly advise against jailbreaking or rooting your phone, which involves removing software restrictions and limitations imposed by the official operating system of your device. Such actions could expose your phone to malware, viruses, malicious programs, compromise your phone's security features, and may result in the Application not functioning correctly or at all.
 
+## Sharing Features
+
+The Application includes sharing and import features that allow you to share store information, product price records, shopping lists, or exported Application data with other people or with your own devices. Sharing is initiated by you through the Application and the sharing options provided by your device.
+
+When you choose to share data, the shared content may include information you entered in the Application, such as store names, store locations, product names, prices, quantities, units, notes, and shopping list items. You are responsible for reviewing what you share and for choosing appropriate recipients and sharing destinations.
+
+The Service Provider is not responsible for how recipients, messaging services, cloud storage providers, or other third-party applications handle, store, forward, modify, or delete the data after you share it outside the Application. Imported shared data is provided by the sender or source of the shared file, and the Service Provider does not guarantee that such data is accurate, complete, current, or safe to rely on.
+
 Please note that the Application utilizes third-party services that have their own Terms and Conditions. Below are the links to the Terms and Conditions of the third-party service providers used by the Application:
 
 - [AdMob](https://developers.google.com/admob/terms)
@@ -32,4 +40,4 @@ These terms and conditions are effective as of 2026-05-24
 
 ## Contact Us
 
-If you have any questions or suggestions about the Terms and Conditions, please do not hesitate to contact the Service Provider at project.bandwagon24@gmail.com.
+If you have any questions or suggestions about the Terms and Conditions, please do not hesitate to contact the Service Provider at https://github.com/NaotoNaka/nekurabe-support.
